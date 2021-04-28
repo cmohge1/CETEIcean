@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <ab/>
+   <!--  <particDesc>
+      <listPerson>
+         <person xml:id="AP">
+            here enter more info about Pope
+         </person>
+      </listPerson>
+      </particDesc> -->
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="level1" xml:id="alexander-popes-the-dunciad">
+            <head>Alexander Pope’s <hi rend="italic">The
+               Dunciad</hi></head>
+            <div type="level2" xml:id="book-iii">
+               <head>Book III</head>
+               <l>[Page 73]</l>
+               <lg n="1" xml:id="stanza1" type="couplet">
+                  <l>Their full-fed Heroes, their pacific May’rs,</l>
+               <l>Their annual trophies,<note>
+                  <list type="ordered:arabic">
+                     <item n="280">
+                        <l>Annual trophies, on the <hi rend="italic">Lord
+                           Mayor’s Day</hi>; and monthly wars, in the
+                           <hi rend="italic">Artillery Ground</hi>.</l>
+                     </item>
+                  </list>
+               </note> and their monthly wars; 280</l>
+               </lg>
+               <l>Tho’ long my Party<note>
+                  <list type="ordered:arabic">
+                     <item n="281">
+                        <l><hi rend="italic">Tho’ long my party</hi>]
+                           <hi rend="italic">Settle</hi>, like most
+                           Party-writers, was very uncertain in his political principles.
+                           He was employ’d to hold the pen in the
+                           <hi rend="italic">Character</hi> of a
+                           <hi rend="italic">Popish successor</hi>, but
+                           afterwards printed his narrative on the other side. He had
+                           managed the ceremony of a famous pope-burning on
+                           <hi rend="italic">Nov.</hi> 17, 1680: then became
+                           a trooper in King <hi rend="italic">James</hi>’s
+                           army, at <hi rend="italic">Hounslow-heath:</hi>
+                           After the Revolution he kept a booth at
+                           <hi rend="italic">Bartholomew-fair</hi>, where, in
+                           the Droll call’d St George <hi rend="italic">for
+                              England</hi>, he acted in his old age in a dragon of green
+                           leather of his own invention; he was at last taken into the
+                           Charter-house, and there died, aged sixty years.</l>
+                     </item>
+                  </list>
+               </note> built on me their hopes,</l>
+               <l>For writing pamphlets, and for burning Popes;</l>
+               <l>(Diff’rent our parties, but with equal grace</l>
+               <l>The Goddeſſ smiles on Whig and Tory race,<note>
+                  <l>Verse 283–84. –––– <hi rend="italic">With equal
+                     grace<lb />Our Godess smiles on Whig and Tory race</hi>.] Virg.
+                     Aen. 10.</l>
+               </note></l>
+               <l>’Tis the same rope at sev’ral ends they twist, 285</l>
+               <l>To Dulness, Ridpath is as dear as Mist.)<note type="authorial" resp="#AP">
+                  <list type="ordered:arabic">
+                     <item n="285">
+                        <l><hi rend="italic">To Dulness</hi>, Ridpath
+                           <hi rend="italic">is as dear as Mist</hi>]
+                           <hi rend="italic">George Ridpath</hi>, author for
+                           several years of the
+                           <hi rend="italic">Flying-Poll</hi>, a Whig-paper;
+                           <hi rend="italic">Nathaniel Mist</hi>, publisher
+                           of the Weekly Journal, a Tory-paper.</l>
+                     </item>
+                  </list>
+               </note></l>
+               <l>Yet lo! in me what authors have to brag on!</l>
+               <l>Reduc’d at last to hiss in my own dragon.</l>
+               <l>Avert it, heav’n! that thou or Cibber e’er</l>
+               <l>Should wag two serpent-tails in Smithfield fair. 290</l>
+               <l>Like the vile straw that’s blown about the streets</l>
+               <l>The needy Poet sticks to all he meets,</l>
+               <l>Coach’d, carted, trod upon, now loose, now fast,</l>
+               <l>In some dog’s tail his progress ends at last.</l>
+               <div type="level3" xml:id="remarks">
+                  <head>Remarks</head>
+                  <l></l>
+               </div>
+               <div type="level3" xml:id="imitations">
+                  <head>Imitations</head>
+                  <p><hi rend="italic">Tros Rutulusve fuat, nullo
+                     discrimine babels</hi>. –––– <hi rend="italic">Rex
+                        Jupiter omnibus idem</hi>.</p>
+               </div>
+            </div>
+         </div>
+
+      </body>
+  </text>
+</TEI>
