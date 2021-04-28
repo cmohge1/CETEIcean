@@ -12,8 +12,8 @@
             <ab/>
    <!--  <particDesc>
       <listPerson>
-         <person xml:id="AP">
-            here enter more info about Pope
+         <person xml:id="JohnDoe">
+            here enter more info about a person
          </person>
       </listPerson>
       </particDesc> -->
@@ -22,6 +22,7 @@
   </teiHeader>
   <text>
       <body>
+        <p>Once upon a time...</p>
       </body>
   </text>
 </TEI>

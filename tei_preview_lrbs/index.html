@@ -22,10 +22,10 @@
         /* Insert a <p> with the content of the <pb>'s @n attribute inside it
            Add a line above with CSS */
         "pb": ["<p class=\"break\">$@n</p>"],
-      }
+      },
     };
     c.addBehaviors(behaviors);
-    c.getHTML5('pope_dunciad_selection_tei.xml', function(data){
+    c.getHTML5('tei_template.xml', function(data){
       document.getElementsByTagName('body')[0].appendChild(data);
     });
   </script>
