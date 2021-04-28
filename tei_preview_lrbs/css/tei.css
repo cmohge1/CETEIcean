@@ -95,3 +95,11 @@ tei-text {
 tei-titlepage {
   display: block;
 }
+tei-hi[rendition=smallcaps] {
+  font-variant: small-caps;
+}
+tei-head {
+  display: block;
+  font-size: 150%;
+  font-style: bold;
+}
