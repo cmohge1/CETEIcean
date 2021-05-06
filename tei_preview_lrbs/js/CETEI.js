@@ -214,7 +214,7 @@ var CETEI = (function () {
       ]],
       "note": [
         // Make endnotes
-        ["[place=end]", function(elt){
+        ["[place=end]", function(elt) {
           if (!this.noteIndex){
             this["noteIndex"] = 1;
           } else {
