@@ -68,6 +68,7 @@ tei-hi[rend=italic] {
 tei-l {
   display: block;
 }
+tei-l[n]
 tei-lg {
   display: block;
   margin-left: 5em;
@@ -102,4 +103,24 @@ tei-head {
   display: block;
   font-size: 150%;
   font-style: bold;
+}
+tei-fw {
+  display: block;
+  font-size: 125%;
+  font-style: bold;
+}
+tei-l[n]:before {
+  font-weight: lighter;
+  content: attr(n)"\00a0""\00a0""\00a0";
+  margin-left: -2em;
+}
+tei-l[rend="2em"] {
+  display: block;
+  text-indent: 2em;
+}
+tei-figure>tei-head {
+  display: none;
+}
+tei-figure>tei-figDesc {
+  display: none;
 }

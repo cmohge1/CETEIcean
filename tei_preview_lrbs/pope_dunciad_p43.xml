@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Dunciad</title>
+            <author>Alexander Pope</author>
+            <editor>LRBS Digital Editor</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished exercise (2021)</p>
+         </publicationStmt>
+         <sourceDesc>
+      <listPerson>
+         <person xml:id="AP" corresp="https://www.wikidata.org/wiki/Q164047">
+           <persName>
+                 <forename>Alexander</forename>
+                    <surname>Pope</surname></persName>
+                 <birth when="1688">1688</birth>
+                 <death when="1744">1744</death>
+                 <note>Alexander Pope was a British poet.</note>
+         </person>
+      </listPerson>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="level1" xml:id="the-dunciad">
+            <head>The Dunciad</head>
+            <div type="level2" xml:id="alexander-pope">
+               <head><persName ref="#AP">Alexander Pope</persName></head>
+               <div type="level3" xml:id="book-i.-the-dunciad.-43">
+                 <pb n="43"/><figure>
+                    <head>pope-dunciad-p43</head>
+                    <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/The_Dunciad_-_Alexander_Pope_(1743).djvu/page74-1024px-The_Dunciad_-_Alexander_Pope_(1743).djvu.jpg" />
+                    <figDesc>fig:</figDesc>
+                 </figure>
+                  <fw>Book I. The <hi rendition="smallcaps">Dunciad</hi></fw>
+                  <lb/>
+                  <lg type="couplet">
+                     <l>Still her old Empire to restore she tries,</l>
+                        <l>For, born a
+                          <choice>
+                            <orig>Goddeſs</orig>
+                            <reg>Goddess</reg>
+                          </choice>,
+                        <choice>
+                          <orig>Dulneſs</orig>
+                          <reg>Dulness</reg>
+                        </choice>
+                        never dies.</l>
+                           <l n="20">O thou! whatever title please thine ear</l>
+                        <l>Dean, Drapier, Bickerstaff, or Gulliver!</l>
+                     <l>Whether thou choose Cervantes’ serious air,</l>
+                     <l>Or laugh and shake in Rabelais’ easy chair,</l>
+                     <l>Or praise the court, or magnify mankind,</l>
+                     <l>Or thy grieved country’s copper chains unbind;</l>
+                     <l n="25">From thy Boeotia though her power retires,</l>
+                     <l>Mourn not, my <hi rend="smallcaps">Swift</hi>, at
+                        ought our realm acquires,</l>
+                     <l>Here pleased behold her mighty wings out-spread</l>
+                     <l>To hatch a new Saturnian age of Lead.</l>
+                     <l>Close to those walls where Folly holds her throne,</l>
+                     <l n="30">And laughs to think Monroe would take her down,</l>
+                  </lg>
+                  <lb/>
+                     <div type="level4" xml:id="remarks.">
+                        <head><hi rendition="simple:smallcaps">Remarks</hi>.</head>
+                        <l><hi rend="italic">Will see his Work, like Jacob’s
+                           ladder, rise,</hi></l>
+                        <l><hi rend="italic">Its foot in dirt, its head amid
+                           the skies</hi>. Bentl.</l>
+                        <l>Ver. 16. <hi rend="italic">She rul’d, in native
+                           Anarchy, the mind</hi>.] The native Anarchy of the mind is that
+                           slate which precedes the time of Reason’s assuming the rule of
+                           the Passions. But in that state, the uncontrolled violemce of
+                           the Passion would sooon bring things to confusion, were it not
+                           for the intervention of Dulness in this absence of Reason; who,
+                           though she cannot regulate them like Reason, yet blunts and
+                           deadens their Vigour, and, indeed, produces some of the good
+                           effects of it: Hence it is that Dulness has often the appearance
+                           of Reason. This is the only good she ever did; and the Poet
+                           takes particular care to tell it in the very introduction his
+                           Poem. It is to be observed indeed, that this is spoken of the
+                           universal rule of Dulness in ancient days, but we may form an
+                           idea of it from her partial Government in later times.</l>
+                        <l>Ver. 17. <hi rend="italic">Still her old Empire
+                           to restore</hi>] The Restoration makes the Completion of the
+                           poem. <hi rend="italic">Vide</hi> Book 4.</l>
+                        <l>Ver. 23. <hi rend="italic">Or praise the Court,
+                           or magnify Mankind</hi>,]
+                           <note resp="#AP" type="authorial"><hi rend="italic">Ironicè</hi>, alluding to
+                              <hi rend="italic">Gulliver’s</hi> representations of
+                              both. –– The next line relates to the papers of the
+                              <hi rend="italic">Drapier</hi> against the currency
+                              of <hi rend="italic">Wood</hi>’s Copper coin in
+                              <hi rend="italic">Ireland</hi>, which, upon the
+                              great discontent of the people, his Majesty was graciously
+                              pleased to recal.</note></l>
+                        <l>Ver. 28. <hi rend="italic">To hatch a new
+                           Saturnian age of Lead</hi>.] The ancient Golden Age</l>
+                        <l>F a</l>
+                     </div>
+               </div>
+            </div>
+         </div>
+
+      </body>
+  </text>
+</TEI>
