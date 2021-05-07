@@ -39,7 +39,7 @@
                   <fw>Book I. The <hi rendition="smallcaps">Dunciad</hi></fw>
                   <lb/>
                   <lg type="couplet">
-                     <l>Still her old Empire to restore she tries,</l>
+                     <l rend="2em">Still her old Empire to restore she tries,</l>
                         <l>For, born a
                           <choice>
                             <orig>Goddeſs</orig>
@@ -50,7 +50,7 @@
                           <reg>Dulness</reg>
                         </choice>
                         never dies.</l>
-                           <l n="20">O thou! whatever title please thine ear</l>
+                           <l n="20" rend="2em">O thou! whatever title please thine ear</l>
                         <l>Dean, Drapier, Bickerstaff, or Gulliver!</l>
                      <l>Whether thou choose Cervantes’ serious air,</l>
                      <l>Or laugh and shake in Rabelais’ easy chair,</l>
@@ -61,16 +61,19 @@
                         ought our realm acquires,</l>
                      <l>Here pleased behold her mighty wings out-spread</l>
                      <l>To hatch a new Saturnian age of Lead.</l>
-                     <l>Close to those walls where Folly holds her throne,</l>
+                     <l rend="2em"><choice>
+                       <orig>Cloſe</orig>
+                       <reg>Close</reg>
+                       </choice> to those walls where Folly holds her throne,</l>
                      <l n="30">And laughs to think Monroe would take her down,</l>
                   </lg>
                   <lb/>
                      <div type="level4" xml:id="remarks.">
-                        <head><hi rendition="simple:smallcaps">Remarks</hi>.</head>
-                        <l><hi rend="italic">Will see his Work, like Jacob’s
-                           ladder, rise,</hi></l>
-                        <l><hi rend="italic">Its foot in dirt, its head amid
-                           the skies</hi>. Bentl.</l>
+                        <head rend="center"><hi rendition="smallcaps">Remarks</hi>.</head>
+                        <p><hi rend="italic">Will see his Work, like Jacob’s
+                           ladder, rise,</hi></p>
+                        <p><hi rend="italic">Its foot in dirt, its head amid
+                           the skies</hi>. Bentl.</p>
                         <l>Ver. 16. <hi rend="italic">She rul’d, in native
                            Anarchy, the mind</hi>.] The native Anarchy of the mind is that
                            slate which precedes the time of Reason’s assuming the rule of

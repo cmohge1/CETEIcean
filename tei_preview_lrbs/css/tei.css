@@ -101,8 +101,11 @@ tei-hi[rendition=smallcaps] {
 }
 tei-head {
   display: block;
-  font-size: 150%;
+  font-size: 125%;
   font-style: bold;
+}
+tei-head[rend=center] {
+  text-align: center;
 }
 tei-fw {
   display: block;
@@ -111,8 +114,8 @@ tei-fw {
 }
 tei-l[n]:before {
   font-weight: lighter;
-  content: attr(n)"\00a0""\00a0""\00a0";
-  margin-left: -2em;
+  content: attr(n);
+  float: right;
 }
 tei-l[rend="2em"] {
   display: block;
