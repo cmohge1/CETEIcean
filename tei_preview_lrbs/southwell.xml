@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <ab/>
+   <!--
+      <listPerson>
+         <person xml:id="JohnDoe">
+            here enter more info about a person
+         </person>
+      </listPerson>
+      </particDesc> -->
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <div type="level1" xml:id="lady-anne-southwell">
+          <head><ref target="https://www-oxforddnb-com.ucd.idm.oclc.org/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-68084?rskey=HZ7oE4&amp;result=12">Lady
+          Anne Southwell</ref></head>
+          <div type="level2" xml:id="headnote">
+            <head>Headnote</head>
+            <p>The 3rd commandment is found in Exodus 20:7, and in Deuteronomy
+            5:11. The wording is the same in both the Geneva Bible and King
+            James Version– and is identical to the wording used here.</p>
+          </div>
+          <div type="level2" xml:id="ms-lansdowne-740">
+            <head>Ms Lansdowne 740 <!-- insert img url -->
+        </head>
+              <p><hi rend="italic">Thou shalt not take the name of
+              the Lord thy god in vain; for the Lord will not hold him guiltless
+              that taketh his name in vain</hi></p>
+              <lg type="sestet">
+              <l>Here is<note>
+                <l>F: <hi rend="italic">in this</hi></l>
+              </note> our heart’s corruption most expressed</l>
+               <l>And spreads itself more than in any other</l>
+               <l>Those faults that are by temporal laws <del rend="strikethrough"> depressed</del><add place="above">supprest</add></l>
+
+              <l>Even for affliction sake we seek to smother.</l>
+              <l>But to blaspheme or take God’s name in vain,</l>
+              <l>Is held a sport, because ‘tis freed from pain.</l>
+            </lg>
+              <lg type="sestet">
+              <l>Poor birdlime bat, who Satan hath in hold,</l>
+              <l>Thinkest thou that God will let this treason die?</l>
+              <l>‘Gainst his own honour is his care so cold,</l>
+              <l>Because he doth not thunder suddenly?</l>
+              <l>This weighty business is of so much trust,</l>
+              <l>As he will not commit it unto dust.</l>
+            </lg>
+              <figure>
+                <head>Folger V.b.198</head>
+                <graphic url="https://www.dropbox.com/s/k8i06lap7aczeim/southwell%20image.png"/>
+                <figDesc>fig:</figDesc>
+              </figure>
+            </div>
+          </div>
+      </body>
+  </text>
+</TEI>

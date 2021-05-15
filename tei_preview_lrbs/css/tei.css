@@ -68,7 +68,6 @@ tei-hi[rend=italic] {
 tei-l {
   display: block;
 }
-tei-l[n]
 tei-lg {
   display: block;
   margin-left: 5em;
@@ -126,4 +125,13 @@ tei-figure>tei-head {
 }
 tei-figure>tei-figDesc {
   display: none;
+}
+tei-choice>tei-reg {
+  display: none;
+}
+tei-del {
+  text-decoration: line-through;
+}
+tei-add {
+  vertical-align: super;
 }

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <repository>John Rylands Library</repository>
+                <idno type="shelfmark">English MS 414/7</idno>
+                <settlement>Manchester</settlement>
+                <institution>University of Manchester</institution>
+              </msIdentifier>
+              <msContents>
+                <summary>Jane Roscoe's 'Sonnet. The African Mother. A Fact' is a poem that illustrates in a brief and clearly expressed manner some of the basic features of the paradigm; it opens with a short declarative sentence: 'The mother sat and wept...'.
+                </summary>
+                </msContents>
+                <history>
+                  <acquisition>Presented to the John Rylands Library by Alexander Cowan Wilson in 1923. The gift was probably received in conjunction with the collection of anti-slavery pamphlets acquired by the Library from the executors of Henry Joseph Wilson.</acquisition>
+                </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <p></p>
+      </body>
+  </text>
+</TEI>

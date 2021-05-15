@@ -38,6 +38,9 @@
                  </figure>
                   <fw>Book I. The <hi rendition="smallcaps">Dunciad</hi></fw>
                   <lb/>
+                  <lg>
+                    <l>VERSE 16<ref target="#v16"/></l>
+                  </lg>
                   <lg type="couplet">
                      <l rend="2em">Still her old Empire to restore she tries,</l>
                         <l>For, born a
@@ -57,7 +60,7 @@
                      <l>Or praise the court, or magnify mankind,</l>
                      <l>Or thy grieved country’s copper chains unbind;</l>
                      <l n="25">From thy Boeotia though her power retires,</l>
-                     <l>Mourn not, my <hi rend="smallcaps">Swift</hi>, at
+                     <l>Mourn not, my <hi rendition="smallcaps">Swift</hi>, at
                         ought our realm acquires,</l>
                      <l>Here pleased behold her mighty wings out-spread</l>
                      <l>To hatch a new Saturnian age of Lead.</l>
@@ -68,13 +71,14 @@
                      <l n="30">And laughs to think Monroe would take her down,</l>
                   </lg>
                   <lb/>
-                     <div type="level4" xml:id="remarks.">
+                     <div type="level4" xml:id="remarks_p43">
                         <head rend="center"><hi rendition="smallcaps">Remarks</hi>.</head>
-                        <p><hi rend="italic">Will see his Work, like Jacob’s
-                           ladder, rise,</hi></p>
-                        <p><hi rend="italic">Its foot in dirt, its head amid
-                           the skies</hi>. Bentl.</p>
-                        <l>Ver. 16. <hi rend="italic">She rul’d, in native
+                          <lg>
+                            <l><hi rend="italic">Will see his Work, like Jacob’s
+                           ladder, rise,</hi></l>
+                        <l><hi rend="italic">Its foot in dirt, its head amid
+                           the skies</hi>. Bentl.</l></lg>
+                        <note xml:id="v16">Ver. 16. <hi rend="italic">She rul’d, in native
                            Anarchy, the mind</hi>.] The native Anarchy of the mind is that
                            slate which precedes the time of Reason’s assuming the rule of
                            the Passions. But in that state, the uncontrolled violemce of
@@ -87,11 +91,11 @@
                            takes particular care to tell it in the very introduction his
                            Poem. It is to be observed indeed, that this is spoken of the
                            universal rule of Dulness in ancient days, but we may form an
-                           idea of it from her partial Government in later times.</l>
-                        <l>Ver. 17. <hi rend="italic">Still her old Empire
+                           idea of it from her partial Government in later times.</note>
+                        <p>Ver. 17. <hi rend="italic">Still her old Empire
                            to restore</hi>] The Restoration makes the Completion of the
-                           poem. <hi rend="italic">Vide</hi> Book 4.</l>
-                        <l>Ver. 23. <hi rend="italic">Or praise the Court,
+                           poem. <hi rend="italic">Vide</hi> Book 4.</p>
+                        <p>Ver. 23. <hi rend="italic">Or praise the Court,
                            or magnify Mankind</hi>,]
                            <note resp="#AP" type="authorial"><hi rend="italic">Ironicè</hi>, alluding to
                               <hi rend="italic">Gulliver’s</hi> representations of
@@ -100,10 +104,10 @@
                               of <hi rend="italic">Wood</hi>’s Copper coin in
                               <hi rend="italic">Ireland</hi>, which, upon the
                               great discontent of the people, his Majesty was graciously
-                              pleased to recal.</note></l>
-                        <l>Ver. 28. <hi rend="italic">To hatch a new
-                           Saturnian age of Lead</hi>.] The ancient Golden Age</l>
-                        <l>F a</l>
+                              pleased to recal.</note></p>
+                        <p>Ver. 28. <hi rend="italic">To hatch a new
+                           Saturnian age of Lead</hi>.] The ancient Golden Age</p>
+                        <p>F a</p>
                      </div>
                </div>
             </div>
